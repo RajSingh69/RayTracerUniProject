@@ -1,0 +1,24 @@
+
+WHERE MY INTELLIJ FILES ARE STORED
+C:\Users\rajan\IdeaProjects
+
+WHERE MY JAVA FX 19 IS STORED
+C:\Users\rajan\javafx-sdk-19
+
+WHERE MY JAVA JDK IS
+C:\Program Files\Java\jdk-19.0.2
+
+PATH TO JAVA JDK EXE FILE
+C:\Program Files\Java\jdk-19.0.2\bin\javac.exe
+
+
+cd C:\Users\rajan\Desktop\YEAR 2 LEARNING SHIT\(S2) CS-255 - Computer Graphics\test javafx two
+
+"C:\Program Files\Java\jdk-17.0.6\bin\javac.exe" --module-path "C:\Program Files\Java\javafx-sdk-19.0.2.1\lib" --add-modules javafx.controls test.java
+
+"C:\Program Files\Java\jdk-17.0.6\bin\java.exe" --module-path "C:\Program Files\Java\javafx-sdk-19.0.2.1\lib" --add-modules javafx.controls test   
+
+
+
+
+--module-path "C:\Program Files\Java\javafx-sdk-19.0.2.1\lib" --add-modules javafx.controls,javafx.fxml
